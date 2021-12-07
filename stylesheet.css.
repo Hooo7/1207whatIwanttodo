@@ -49,7 +49,7 @@ margin: 0;
 .CO2{
 width: 100%
 height: 300px
-background: url("")
+background: url("CO2.jpeg");
 }
 .flame25 {
 position: relative;
